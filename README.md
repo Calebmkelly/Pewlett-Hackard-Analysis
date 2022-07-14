@@ -5,12 +5,12 @@ For this project, SQL techniques will be used to do the following: Create enity 
 
 ## Results: 
 
-Mentorship Eligibility 
+figure 1 - Mentorship Eligibility:
 
 ![mentorship_eligibility_image.png](https://github.com/Calebmkelly/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibility_image.png)
 
 
-Retirement Count
+figure 2 - Retirement Count:
 
 ![Retirement_count_image](https://github.com/Calebmkelly/Pewlett-Hackard-Analysis/blob/main/Resources/retirement_count_image.png)
 
