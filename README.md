@@ -5,9 +5,11 @@ For this project, SQL techniques will be used to do the following: Create enity 
 
 ## Results: 
 - In the next few years, the number of employees who will retire accumulates to 72,458 employees
-- - taking a closer look, 2 managers will be retiring soon. It is crucial to keep this in mind and to find the appropriate team members who can fill the needs of a manager position.
+- taking a closer look, 2 managers will be retiring soon. It is crucial to keep this in mind and to find the appropriate team members who can fill the needs of a manager position.
 - approximately half of the employees that are retiring fall under the 'senior' genre. It may be best to replace those employees with those who have the necessary experience to fill that gap
-- keeping the mentorship in mind, 1549 employees are eligible to become a mentor for new employees 
+- keeping the mentorship in mind, 1549 employees are eligible to become a mentor for new employees
+
+
 ## Summary: 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
