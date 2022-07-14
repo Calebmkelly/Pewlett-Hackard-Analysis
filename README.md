@@ -37,5 +37,5 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 compared to the size of the company, these numbers are not so far fetched, yet it will still take lots of consideration to help future-proof the company and keep it on the right path when the tsunami comes around.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-looking at the amount of employees that are eligilbe for the mentorship program, there are 1,549 employees that meet the requirements. Comparing the 1,549 potential mentors to the 72,458 employees that will need to be replaced, it seems that there will not be enough mentors for the upcoming future. 
+- looking at the amount of employees that are eligilbe for the mentorship program, there are 1,549 employees that meet the requirements. Comparing the 1,549 potential mentors to the 72,458 employees that will need to be replaced, it seems that there will not be enough mentors for the upcoming future. 
 
