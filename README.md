@@ -24,12 +24,14 @@ figure 2 - Retirement Count:
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 - as the silver tsunami embarks on its journey, many roles will need to filled, these roles include:
-  - 25916 Senior Engineer postions
-  - 24926 Senior Staff positions
-  - 9285 Engineer positions
-  - 7636 Staff positions
-  - 3603 Technique Leader positions
-  - 1090 Assistant Engineer positions
+  - 25,916 Senior Engineer postions
+  - 24,926 Senior Staff positions
+  - 9,285 Engineer positions
+  - 7,636 Staff positions
+  - 3,603 Technique Leader positions
+  - 1,090 Assistant Engineer positions
   - 2 Manager positions
+  - total positions needed to be filled: 72,458
+  compared to the size of the company, these numbers are not so far fetched, yet it will still take lots of consideration to help future-proof the company and keep it on the right path.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
