@@ -32,6 +32,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
   - 1,090 Assistant Engineer positions
   - 2 Manager positions
   - total positions needed to be filled: 72,458
-  compared to the size of the company, these numbers are not so far fetched, yet it will still take lots of consideration to help future-proof the company and keep it on the right path.
+
+compared to the size of the company, these numbers are not so far fetched, yet it will still take lots of consideration to help future-proof the company and keep it on the right path.
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
